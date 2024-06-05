@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.parallax-container {
+  background-image: url("https://hackerusa-ce.github.io/intro-v2-final-project/assets/images/heroBackground.jpg"),
+
+}
